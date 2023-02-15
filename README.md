@@ -29,13 +29,13 @@ The final project will require you to apply the skills you've learned in the cou
 ## Requirements
 This repository requires the following software:
 
-Python 3
-Jupyter Notebook
-pandas
-NumPy
-Matplotlib
-seaborn
-scikit-learn
+Python 3,
+Jupyter Notebook,
+pandas,
+NumPy,
+Matplotlib,
+seaborn,
+scikit-learn,
 TensorFlow
 
 ## Acknowledgements
